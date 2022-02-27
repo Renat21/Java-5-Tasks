@@ -9,5 +9,8 @@ public class Item {
         this.name = name;
         this.volume = volume;
         this.value = value;
+        this.name = name;
+        this.volume = volume;
+        this.value = value;
     }
 }
