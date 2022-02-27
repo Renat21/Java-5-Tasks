@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner( System.in );
         System.out.print("Протестировать:\nсо своими продуктами - 1\nс готовым тестированием - 2\n");
+        System.out.print("Протестировать:\nсо своими продуктами - 1\nс готовым тестированием - 2\n");
         Integer help = myScanner.nextInt();
 
         if (help == 1) {
