@@ -11,6 +11,7 @@ public class Safe {
     }
 
     //вычисляет общий вес набора предметов
+    //вычисляет общий вес набора предметов
     private double CalcVolume(List<Item> items)
     {
         double sumVolume = 0;
